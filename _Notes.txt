@@ -1,0 +1,19 @@
+Angular Architecture:
+https://angular.io/guide/architecture
+
+
+Pipe
+https://angular.io/guide/pipes
+https://angular.io/api?type=pipe
+
+
+Promise
+https://scotch.io/tutorials/javascript-promises-for-dummies
+
+
+How to use jQuery with Angular?
+https://stackoverflow.com/questions/30623825/how-to-use-jquery-with-angular
+
+
+Triggering change detection manually in Angular
+https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular

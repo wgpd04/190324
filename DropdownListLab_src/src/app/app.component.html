@@ -1,0 +1,17 @@
+<h1>
+  {{title}}
+</h1>
+
+<select [(ngModel)]="selectedCity" (ngModelChange)="onChange($event)">
+    <option [ngValue]="i" *ngFor="let i of cities">{{i.name}}</option>
+</select>
+&nbsp;
+<select>
+    <option [ngValue]="i" *ngFor="let i of districts">{{i}}</option>
+</select>
+
+<hr>
+
+{{ selectedCity | json }}
+
+
